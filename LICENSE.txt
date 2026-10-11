@@ -1,0 +1,22 @@
+PLANNER — LICENSE
+
+Copyright (c) 2026 Victor Tognollo
+
+Planner is free forever.
+
+1. Anyone may download, install, use, copy, share and modify Planner (the app
+   and its source code), on as many Macs as they like, for personal or
+   professional use, at no cost. This applies to this version and to all
+   future versions.
+
+2. Selling Planner or any modified version of it, charging for downloads, or
+   including it in a paid product or service is not allowed.
+
+3. When sharing Planner or a modified version, keep the creator's name
+   (Victor Tognollo) and this license file.
+
+4. Planner is provided as is, without warranty of any kind. The creator is not
+   liable for data loss or any other problem caused by using the app.
+
+A Portuguese version of this license is in LICENCA.txt. If the two differ,
+this English version prevails.

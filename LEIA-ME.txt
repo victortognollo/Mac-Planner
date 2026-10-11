@@ -1,0 +1,43 @@
+PLANNER
+Sua semana inteira na mesa do Mac.
+
+Criado por Victor Tognollo · Gratuito para sempre (veja LICENÇA.txt)
+Versão 1.0 · macOS 14 (Sonoma) ou mais novo · Mac com chip Apple ou Intel
+Idiomas: português e inglês (⋯ > Idioma)
+
+O passo a passo com imagens está no arquivo "Guia de instalação.pdf".
+
+
+COMO INSTALAR
+
+1. Arraste o Planner.app para a pasta Aplicativos.
+
+2. Abra o Planner pela pasta Aplicativos.
+   O macOS avisa que não pode verificar o app, porque ele não vem da App Store.
+   Clique em "Concluído".
+
+3. Abra Ajustes do Sistema > Privacidade e Segurança, role até a seção Segurança
+   e clique em "Abrir Mesmo Assim" ao lado do Planner. Confirme com sua senha ou
+   Touch ID e clique de novo em "Abrir Mesmo Assim".
+
+4. Quando o Planner pedir para enviar notificações, clique em "Permitir".
+
+Pronto. Ele aparece na parte de baixo da tela e passa a abrir sozinho quando o Mac liga.
+
+Atalho para o passo 3 (opcional): no app Terminal, cole a linha abaixo e aperte Enter.
+xattr -dr com.apple.quarantine /Applications/Planner.app
+
+
+COMO USAR
+
+- Mover: arraste pela faixa de cima, onde fica o mês. Redimensione pelas bordas.
+- Adicionar: clique no + de qualquer dia (tarefa, reunião com link ou lembrete com horário).
+- Editar: dois cliques no texto do item, ou botão direito.
+- Agendas: botão de calendário no topo > "Sincronizar com as agendas do Mac".
+  Para o Google Agenda, entre na sua conta em Ajustes do Sistema > Contas de Internet.
+- Ajustes: botão ⋯ no canto direito (idioma, layout horizontal ou vertical, tamanho do
+  texto, posição na tela, abrir ao ligar o Mac).
+
+As tarefas ficam salvas só neste Mac, em ~/Library/Application Support/Planner.
+
+Para desinstalar: ⋯ > Sair do Planner e arraste o Planner.app para o Lixo.
